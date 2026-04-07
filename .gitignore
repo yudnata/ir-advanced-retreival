@@ -7,6 +7,5 @@ env/
 *.egg-info/
 dist/
 build/
-*.png
 .idea/
 .vscode/
